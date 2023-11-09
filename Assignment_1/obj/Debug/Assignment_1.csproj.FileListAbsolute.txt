@@ -1,0 +1,7 @@
+E:\HOC_C#\SV_2023\Assignment_1\Assignment_1\bin\Debug\Assignment_1.exe.config
+E:\HOC_C#\SV_2023\Assignment_1\Assignment_1\bin\Debug\Assignment_1.exe
+E:\HOC_C#\SV_2023\Assignment_1\Assignment_1\bin\Debug\Assignment_1.pdb
+E:\HOC_C#\SV_2023\Assignment_1\Assignment_1\obj\Debug\Assignment_1.csproj.AssemblyReference.cache
+E:\HOC_C#\SV_2023\Assignment_1\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+E:\HOC_C#\SV_2023\Assignment_1\Assignment_1\obj\Debug\Assignment_1.exe
+E:\HOC_C#\SV_2023\Assignment_1\Assignment_1\obj\Debug\Assignment_1.pdb
